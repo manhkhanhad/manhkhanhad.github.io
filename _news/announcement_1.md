@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-01-01 09:00:00+0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started my PhD at the <a href="https://scis.smu.edu.sg/">School of Computing and Information Systems, Singapore Management University</a>, supervised by <a href="https://www.hadylauw.com/">Prof. Hady W. Lauw</a>. Funded by the Vingroup Young Talent Scholarship.

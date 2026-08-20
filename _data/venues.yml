@@ -7,3 +7,19 @@
 
 "Vision":
   color: "#009f36"
+
+"SIGIR":
+  url: https://sigir.org/sigir2026/
+  color: "#c1272d"
+
+"IEEE MM":
+  url: https://www.computer.org/csdl/magazine/mu
+  color: "#00629b"
+
+"MTAP":
+  url: https://link.springer.com/journal/11042
+  color: "#2e7d32"
+
+"MAPR":
+  url: https://mapr-conf.org/
+  color: "#6a1b9a"
