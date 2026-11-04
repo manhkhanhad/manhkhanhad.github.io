@@ -59,4 +59,4 @@ jobs:
           [ -n "$CLOUDFLARE_ACCOUNT_ID" ] || { echo "Missing CLOUDFLARE_ACCOUNT_ID. Set it as a repository secret or variable."; exit 1; }
 
       - name: Deploy to Cloudflare
-        run: npx wrangler pages deploy _site --project-name=khanhnhm --branch=main
+        run: npx wrangler pages deploy _site --project-name=manhkhanhad-github-io --branch=main
